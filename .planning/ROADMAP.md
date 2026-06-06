@@ -37,7 +37,7 @@ Decimal phases appear between their surrounding integers in numeric order.
   4. Canvas element is present on the page and drawable via the Canvas API
 **Plans**: 2 plans
 Plans:
-- [ ] 01-01-PLAN.md — Next.js 15 scaffold with Tailwind v4 and shadcn/ui Button
+- [x] 01-01-PLAN.md — Next.js 15 scaffold with Tailwind v4 and shadcn/ui Button
 - [ ] 01-02-PLAN.md — DrawingCanvas component at /canvas + Vercel deployment
 
 ### Phase 2: QR Matrix Engine
@@ -165,7 +165,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 →
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Project Scaffold | 0/2 | In progress | - |
+| 1. Project Scaffold | 1/2 | In Progress|  |
 | 2. QR Matrix Engine | 0/TBD | Not started | - |
 | 3. Halftone Renderer | 0/TBD | Not started | - |
 | 4. Image Upload & Pipeline | 0/TBD | Not started | - |

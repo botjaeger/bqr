@@ -3,13 +3,13 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: executing
-last_updated: "2026-06-06T07:51:45.442Z"
-last_activity: 2026-06-06 -- Phase 1 planning complete
+last_updated: "2026-06-06T07:59:58.649Z"
+last_activity: 2026-06-06
 progress:
   total_phases: 10
   completed_phases: 0
   total_plans: 2
-  completed_plans: 0
+  completed_plans: 1
   percent: 0
 ---
 
@@ -20,16 +20,16 @@ progress:
 See: .planning/PROJECT.md (updated 2026-06-06)
 
 **Core value:** Generated QR codes must scan reliably AND look visually clean — the logo/image must be clearly recognizable within the QR pattern.
-**Current focus:** Phase 1 — Project Scaffold
+**Current focus:** Phase 01 — Project Scaffold
 
 ## Current Position
 
-Phase: 1 of 10 (Project Scaffold)
-Plan: 0 of TBD in current phase
+Phase: 01 (Project Scaffold) — EXECUTING
+Plan: 2 of 2
 Status: Ready to execute
-Last activity: 2026-06-06 -- Phase 1 planning complete
+Last activity: 2026-06-06
 
-Progress: [░░░░░░░░░░] 0%
+Progress: [█████░░░░░] 50%
 
 ## Performance Metrics
 
@@ -63,6 +63,9 @@ Recent decisions affecting current work:
 - Init: Client-side Canvas API — no server, no image uploads, instant preview
 - Init: node-qrcode (only npm package exposing raw BitMatrix via QRCode.create())
 - Init: PNG-only for v1 — SVG/PDF deferred to v2
+- [Phase ?]: Tailwind v4 CSS-first: @import tailwindcss replaces tailwind directives, no tailwind.config.js
+- [Phase ?]: shadcn/ui initialized with Tailwind v4 auto-detection; New York style, slate base, oklch CSS variable palette
+- [Phase ?]: create-next-app scaffolded in /tmp then rsync'd due to existing .planning/ directory conflict
 
 ### Pending Todos
 
@@ -88,6 +91,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-06-06
+Last session: 2026-06-06T07:59:58.645Z
 Stopped at: Roadmap created — Phase 1 ready to plan
 Resume file: None
