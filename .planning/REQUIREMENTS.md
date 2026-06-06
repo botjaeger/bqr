@@ -77,27 +77,27 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| QR-01 | — | Pending |
-| QR-02 | — | Pending |
-| QR-03 | — | Pending |
-| QR-04 | — | Pending |
-| IMG-01 | — | Pending |
-| IMG-02 | — | Pending |
-| IMG-03 | — | Pending |
-| IMG-04 | — | Pending |
-| IMG-05 | — | Pending |
-| VIS-01 | — | Pending |
-| VIS-02 | — | Pending |
-| VIS-03 | — | Pending |
-| OUT-01 | — | Pending |
-| OUT-02 | — | Pending |
-| POL-01 | — | Pending |
+| QR-01 | Phase 2 | Pending |
+| QR-02 | Phase 2 | Pending |
+| QR-03 | Phase 2 | Pending |
+| QR-04 | Phase 2 | Pending |
+| IMG-01 | Phase 4 | Pending |
+| IMG-02 | Phase 3 | Pending |
+| IMG-03 | Phase 4 | Pending |
+| IMG-04 | Phase 6 | Pending |
+| IMG-05 | Phase 3 | Pending |
+| VIS-01 | Phase 7 | Pending |
+| VIS-02 | Phase 8 | Pending |
+| VIS-03 | Phase 8 | Pending |
+| OUT-01 | Phase 5 | Pending |
+| OUT-02 | Phase 9 | Pending |
+| POL-01 | Phase 10 | Pending |
 
 **Coverage:**
 - v1 requirements: 15 total
-- Mapped to phases: 0
-- Unmapped: 15 ⚠️
+- Mapped to phases: 15
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-06-06*
-*Last updated: 2026-06-06 after initial definition*
+*Last updated: 2026-06-06 after roadmap creation*
